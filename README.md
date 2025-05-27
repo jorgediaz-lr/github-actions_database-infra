@@ -7,7 +7,7 @@ This is a cron job that runs hourly to sync [liferay-database-infra/liferay-port
 
 ## Configuration
 
-*(using `liferay-database-infra` user)*
+*(using the `liferay-database-infra` user)*
 
 ### Create a new Action:
 
