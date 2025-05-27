@@ -6,6 +6,9 @@
 This is a cron job that runs hourly to sync [liferay-database-infra/liferay-portal](https://github.com/jorgediaz-lr/liferay-portal) to [liferay/liferay-portal](https://github.com/liferay/liferay-portal)
 
 ## Configuration
+
+(using `liferay-database-infra` user)
+
 ### Create a new Action:
 
 Go to https://github.com/liferay-database-infra/github-actions/actions => create "new workflow" => "set up a workflow yourself" 
